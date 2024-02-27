@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(//img/imagen\fondo.jpeg);
+}
+
+.morado {
+    background-color: purple;
+    height: 15vh;
+}
+.amarillo {
+    background-color: yellow;
+    height: 50vh;
+}
+.rojo {
+    background-color: red;
+    height: 85vh;
+    text-align: center;
+}
+
+.rojo h1 {
+    margin-top: 35%;
+}
