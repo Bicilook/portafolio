@@ -23,3 +23,73 @@ body {
 .rojo h1 {
     margin-top: 35%;
 }
+
+*{
+    box-sizing: border-box;
+}
+
+
+.barra{
+    background-color: violet;
+    height: 10vh;
+}
+
+.soymenu2{
+    background-color: yellow;
+    height: 15vh;
+}
+
+.textopag2{
+    background-color: rgb(10, 133, 92);
+    height: 80vh;
+}
+
+.fotopag2{
+    background-color: purple;
+    height: 80vh;
+}
+
+.soymenu3{
+    background-color: blueviolet;
+    height: 15vh;
+}
+
+.fotopag3{
+    background-color: blue;
+    height: 70vh;
+}
+
+.textopag3{
+    background-color: aquamarine;
+    height: 70vh;
+}
+
+.soymenu4{
+    background-color: blueviolet;
+    height: 15vh;
+}
+
+.fotopag4{
+    background-color: blue;
+    height: 70vh;
+}
+
+.textopag4{
+    background-color: aquamarine;
+    height: 70vh;
+}
+
+.soymenu5{
+    background-color: blueviolet;
+    height: 15vh;
+}
+
+.fotopag5{
+    background-color: blue;
+    height: 70vh;
+}
+
+.textopag5{
+    background-color: aquamarine;
+    height: 70vh;
+}
